@@ -7,3 +7,7 @@ V2
 - Added Helicopter, and Beyblade
 - Removed, Crash Gun, and Kick Gun (they were detected asf but they worked)
 - Fixed Ghost Monke From Crashing after seconds of turning it off
+
+
+JOIN ARE FOOKIN DISCORD BTW!!!  
+https://discord.gg/EBMHW3A89G
